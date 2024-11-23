@@ -21,9 +21,9 @@ Designed an automated document processing algorithm, saving 24 hours of manual w
 Identified a critical error during a financial audit that caused the loss of accounts receivable, enabling the recovery of $1.1M in outstanding debts
 Created an algorithm for courier delivery rate calculations, reducing manual workload by 32 hours monthly
 ## EDUCATION 
-TOMSK STATE UNIVERSITY, Russia - DIPLOMA 2019 - 2019
+- TOMSK STATE UNIVERSITY, Russia - DIPLOMA 2019 - 2019
 Data Mining and Predictive Modelling
-YANDEX PRACTICUM, Russia - DIPLOMA 2018 - 2019
+- YANDEX PRACTICUM, Russia - DIPLOMA 2018 - 2019
 Data Analysis
-TOMSK POLYTECHNIC UNIVERSITY, Russia - MASTER 2012 - 2018
+- TOMSK POLYTECHNIC UNIVERSITY, Russia - MASTER 2012 - 2018
 Petroleum Engineering
